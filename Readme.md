@@ -17,6 +17,7 @@
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=for-the-badge" alt="License"></a>
 &nbsp;
 <a href="https://huggingface.co/collections/tencent/wedlm"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Models-yellow?style=for-the-badge" alt="Model Weights"></a>
+<a href='https://hyper.ai/notebooks/48935'><img src='https://img.shields.io/badge/Demo-HyperAI-red?style=for-the-badge'></a>
 </p>
 
 <br>
